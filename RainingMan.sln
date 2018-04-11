@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainingMan", "Assembly-CSharp.csproj", "{7429CA45-F187-3F3A-BC05-FA3784660BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainingMan", "Assembly-CSharp-Editor.csproj", "{C9C4BF60-68AB-9BB6-F20D-10B4E5A3F5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{7429CA45-F187-3F3A-BC05-FA3784660BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7429CA45-F187-3F3A-BC05-FA3784660BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7429CA45-F187-3F3A-BC05-FA3784660BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7429CA45-F187-3F3A-BC05-FA3784660BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C4BF60-68AB-9BB6-F20D-10B4E5A3F5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C4BF60-68AB-9BB6-F20D-10B4E5A3F5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C4BF60-68AB-9BB6-F20D-10B4E5A3F5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C4BF60-68AB-9BB6-F20D-10B4E5A3F5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
